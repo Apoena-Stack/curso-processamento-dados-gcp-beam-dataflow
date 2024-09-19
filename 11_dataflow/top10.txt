@@ -1,0 +1,11 @@
+rank,name,points
+1,Fernando,100
+2,Carlos,95
+3,Armaral,92
+4,Felipe,80
+5,Fernanda,77
+6,Carolina,75
+7,Pablo,60
+8,Paulo,56
+9,Lais,49
+10,Larissa,30
