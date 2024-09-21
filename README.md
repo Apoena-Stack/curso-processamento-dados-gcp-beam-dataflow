@@ -1,4 +1,4 @@
-# Curso Processamento de Dados com Apache Beam e Dataflow
+# Título do curso: Processamento de Dados com Apache Beam e Dataflow
 
 | Atributo      | Descrição |
 |---------------|-----------|
